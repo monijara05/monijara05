@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola, soy Mónica! 👋
 
-<!--
-**monijara05/monijara05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Licenciada en Lenguas Modernas y sus Literaturas**  
+📚 Filóloga germana e inglesa  
+💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
 
-Here are some ideas to get you started:
+## 🌟 Sobre mí
+- ✨ Me apasiona el **diseño web** y la parte **frontend**.  
+- 🎨 Disfruto crear interfaces limpias, intuitivas y bonitas.  
+- 🐾 Orgullosa humana de **un gato (Haru), una gata (Sabrina) y un perro (Panita)**.  
+- 📖 Amante de los idiomas, la literatura y el aprendizaje constante.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Actualmente
+- Estudiando y practicando para crecer como **desarrolladora web**.  
+- Explorando cómo unir mi formación en lenguas con el mundo tecnológico.  
+
+⭐ *"El código también puede ser un idioma hermoso."*
